@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src="script.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Covid-19 Online Test</title>
+</head>
+<body>
+	<a href="index.html"><img src="image/corona.png" class="pic"></a>
+<h5 class="sp">Semptomlarınıza göre evet veya hayır butonlarına basın.</h5>
+<div class="div">
+	<a id="quest">Hazırsan Başlayabiliriz.</a>
+</div>
+<input type="button"  value="Başla" id="start-button" onclick="startButton()">
+
+<input type="button"  value="Evet" id="yes-button" onclick="yesPress()">
+
+<input type="button"  value="Hayır" id="no-button" onclick="noPress()">
+
+<input type="button" id="show-results-button" value="Sonuçlar" onclick="showResults()">
+
+<input type="button"  value="Temizle" id="clear-button" onclick="window.location.href = 'index.html';">
+<div class="q-n">
+Soru: <a id="quest-number">0</a>
+</div>
+<div class="yes_no_text">
+	Evet: <a id="yes">0</a><br>
+	Hayır: <a id="no">0</a>
+</div>
+<footer>Buradaki bilgilerin kesinliği doğrulanmamıştır. Hiç bir sonucun kesinliği yoktur.</footer>
+</body>
+</html>
