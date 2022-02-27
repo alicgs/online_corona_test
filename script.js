@@ -73,7 +73,7 @@ function yesPress()
 	}
 	else
 	{
-		document.getElementById('quest').innerHTML="Götlük Var!!"	
+		document.getElementById('quest').innerHTML="Beklenmeyen Hata! Lütfen Sayfayı Yenileyin."	
 	}
 }
 function noPress()
@@ -135,7 +135,7 @@ function noPress()
 	}	
 	else
 	{
-		document.getElementById('quest').innerHTML="Götlük Var!!"	
+		document.getElementById('quest').innerHTML="Beklenmeyen Hata! Lütfen Sayfayı Yenileyin."	
 	}
 }
 
