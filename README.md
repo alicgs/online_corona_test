@@ -13,4 +13,4 @@ Bu projeyi yaparken boostrap kullanmadım bu yüzden 1920x1080 çözünürlükte
 #### The test is over. Click the button to see the answers.
 
 The accuracy of the information here has not been verified. No result is certain.<br>
-Buradaki bilgilerin kesinliği doğrulanmamıştır. Hiç bir sonucun kesinliği yoktur. 
+Buradaki bilgilerin kesinliği doğrulanmamıştır. Hiç bir sonucun kesinliği yoktur.
