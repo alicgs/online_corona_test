@@ -1,7 +1,7 @@
 # Online Corona Test
  Online Corona Test
-I didn't use bootstrap in this project so use 1920x1080 resolution. (Not responsive)<br> 
-Bu projeyi yaparken boostrap kullanmadım bu yüzden 1920x1080 çözünürlükte en doğru görüntüyü alacaksınız. (Responsive bir tasarım değildir.)
+This project not responsive reccomended resolution its 1920x1080<br> 
+Projeyi responsive değildir önerilen çözünürlük 1920x1080
 
 ![f1](https://i.hizliresim.com/seq2xbl.png)
 #### First screen is starting place.
