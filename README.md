@@ -1,7 +1,7 @@
 # Online Corona Test
  Online Corona Test
 This project not responsive reccomended resolution its 1920x1080<br> 
-Projeyi responsive değildir önerilen çözünürlük 1920x1080
+Proje responsive değildir önerilen çözünürlük 1920x1080
 
 ![f1](https://i.hizliresim.com/seq2xbl.png)
 #### First screen is starting place.
